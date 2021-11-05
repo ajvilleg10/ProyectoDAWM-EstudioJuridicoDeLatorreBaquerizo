@@ -1,0 +1,8 @@
+.contact_card{
+    display: flex;
+    background-color: red;
+}
+.title_card{
+    margin: 0 auto;
+    background-color: royalblue;
+}
