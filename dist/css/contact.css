@@ -1,6 +1,9 @@
 .contact_card{
-    display: flex;
-    background-color: red;
+    background-color: #A7C5F1;
+    height: 20%;
+    margin-top: 5%;
+    /*max-width: 30%;
+    margin-right: 20%;*/
 }
 .title_card{
     margin: 0 auto;
