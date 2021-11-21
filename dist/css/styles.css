@@ -577,6 +577,7 @@ progress {
     line-height: 1.2;
 }
 
+
 @media (min-width: 1200px) {
     .display-2 {
         font-size: 4.5rem;
@@ -11151,4 +11152,30 @@ html {
     background-position: center;
     background-repeat: no-repeat;
     min-height: 15rem;
+}
+/*Santiago*/
+#header{
+    background: #536472;
+}
+.img-icon-md{
+    width: 2rem;
+}
+.img-icon-sm{
+    width: 1.5rem;
+}
+/*Extra Colors*/
+.bg-peach{
+    background-color: #FD7272;
+}
+.bg-candle{
+    background-color: #36978E;
+}
+.bg-white-pepper{
+    background-color: #F8EFBA;
+}
+.bg-candle-pine{
+    background-color: #B0D1A7;
+}
+.bg-clandle-flickers{
+    background-color: #E3C94F;
 }
