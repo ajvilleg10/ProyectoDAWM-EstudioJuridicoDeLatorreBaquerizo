@@ -80,6 +80,13 @@
     }
 }
 
+.firma {
+  border: 5px outset #001d40;
+  background-color: lightblue;
+  margin: auto;
+  width: 50%;
+}
+
 body {
     margin: 0;
     font-family: var(--bs-body-font-family);
