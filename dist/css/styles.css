@@ -11174,6 +11174,13 @@ html {
 .img-icon-sm{
     width: 1.5rem;
 }
+.img-icon-bg{
+    width: 23rem;
+}
+#map:hover{
+    opacity: 0.5;
+    cursor: pointer;
+}
 /*Extra Colors*/
 .bg-peach{
     background-color: #FD7272;
