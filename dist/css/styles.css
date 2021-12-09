@@ -81,10 +81,10 @@
 }
 
 .firma {
-  border: 5px outset #001d40;
-  background-color: lightblue;
-  margin: auto;
-  width: 50%;
+    border: 5px outset #001d40;
+    background-color: lightblue;
+    margin: auto;
+    width: 50%;
 }
 
 body {
@@ -587,7 +587,6 @@ progress {
     font-weight: 300;
     line-height: 1.2;
 }
-
 
 @media (min-width: 1200px) {
     .display-2 {
@@ -7108,7 +7107,7 @@ fieldset:disabled .btn {
 
 .link-dark:hover,
 .link-dark:focus {
-    color: #1a1e21;
+    color: orange;
 }
 
 .ratio {
@@ -11164,36 +11163,50 @@ html {
     background-repeat: no-repeat;
     min-height: 15rem;
 }
+
+
 /*Santiago*/
-#header{
+
+#header {
     background: #536472;
 }
-.img-icon-md{
+
+.img-icon-md {
     width: 2rem;
 }
-.img-icon-sm{
+
+.img-icon-sm {
     width: 1.5rem;
 }
-.img-icon-bg{
+
+.img-icon-bg {
     width: 23rem;
 }
-#map:hover{
+
+#map:hover {
     opacity: 0.5;
     cursor: pointer;
 }
+
+
 /*Extra Colors*/
-.bg-peach{
+
+.bg-peach {
     background-color: #FD7272;
 }
-.bg-candle{
+
+.bg-candle {
     background-color: #36978E;
 }
-.bg-white-pepper{
+
+.bg-white-pepper {
     background-color: #F8EFBA;
 }
-.bg-candle-pine{
+
+.bg-candle-pine {
     background-color: #B0D1A7;
 }
-.bg-clandle-flickers{
+
+.bg-clandle-flickers {
     background-color: #E3C94F;
 }
